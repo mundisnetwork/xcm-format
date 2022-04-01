@@ -1,4 +1,4 @@
-# Polkadot Cross-Consensus Message (XCM) Format
+# Cross-Consensus Message (XCM) Format
 
 **Version 3, in-progress.**
 **Authors: Gavin Wood.**
